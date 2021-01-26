@@ -67,7 +67,9 @@
     <Compile Include="Przedstawiciel.cs" />
     <Compile Include="Sprzedaz.cs" />
     <Compile Include="Transakcja.cs" />
-    <Compile Include="ZarzK.cs" />
+    <Compile Include="ZarzK.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="ZarzK.Designer.cs">
       <DependentUpon>ZarzK.cs</DependentUpon>
     </Compile>
@@ -77,7 +79,9 @@
     <Compile Include="ZarzP.Designer.cs">
       <DependentUpon>ZarzP.cs</DependentUpon>
     </Compile>
-    <Compile Include="ZarzT.cs" />
+    <Compile Include="ZarzT.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="ZarzT.Designer.cs">
       <DependentUpon>ZarzT.cs</DependentUpon>
     </Compile>
