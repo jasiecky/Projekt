@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WindowsFormsApp1</name>
+    </assembly>
+    <members>
+        <member name="F:WindowsFormsApp1.Main.components">
+            <summary>
+            Wymagana zmienna projektanta.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Main.Dispose(System.Boolean)">
+            <summary>
+            Wyczyść wszystkie używane zasoby.
+            </summary>
+            <param name="disposing">prawda, jeżeli zarządzane zasoby powinny zostać zlikwidowane; Fałsz w przeciwnym wypadku.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Main.InitializeComponent">
+            <summary>
+            Metoda wymagana do obsługi projektanta — nie należy modyfikować
+            jej zawartości w edytorze kodu.
+            </summary>
+        </member>
+        <member name="T:WindowsFormsApp1.Osoba">
+            <summary>
+            Klasa abstrakcyjna osoba
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Osoba.#ctor">
+            <summary>
+            Inicjalizacja nowego obiektu klasy <see cref="T:WindowsFormsApp1.Osoba" />
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Osoba.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Inicjalizacja nowego obiektu klasy <see cref="T:WindowsFormsApp1.Osoba" />
+            </summary>
+            <param name="imie">Imie</param>
+            <param name="nazwisko">Nazwisko</param>
+            <param name="numer_telefonu">Numer telefonu</param>
+            <param name="pesel">PESEL</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Osoba.WyswietlDane">
+            <summary>
+            Wyświetlanie danych o obiekcie
+            </summary>
+            <returns><see cref="T:System.String" /> z informacjami o obiekcie</returns>
+        </member>
+        <member name="M:WindowsFormsApp1.Program.Main">
+            <summary>
+            Główny punkt wejścia dla aplikacji.
+            </summary>
+        </member>
+        <member name="T:WindowsFormsApp1.Przedstawiciel">
+            <summary>
+            Informacje o przedstawicielu handlowym
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Przedstawiciel.#ctor">
+            <summary>
+            Inicjalizacja nowego obiektu klasy <see cref="T:WindowsFormsApp1.Przedstawiciel" />
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Przedstawiciel.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Inicjalizacja nowego obiektu klasy <see cref="T:WindowsFormsApp1.Przedstawiciel" />
+            </summary>
+            <param name="imie">Imie</param>
+            <param name="nazwisko">Nazwisko</param>
+            <param name="numer_telefonu">Numer telefonu</param>
+            <param name="pesel">PESEL</param>
+            <param name="branza">Branża</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Przedstawiciel.WyswietlDane">
+            <summary>
+            Wyświetlanie danych o obiekcie
+            </summary>
+            <returns><see cref="T:System.String" /> z informacjami o obiekcie</returns>
+        </member>
+        <member name="M:WindowsFormsApp1.Przedstawiciel.SerializacjaXML">
+            <summary>
+            Zapis obiketu do pliku XML
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Przedstawiciel.DeserializacjaXML(System.String)">
+            <summary>
+            Odczyt obiektu z pliku XML
+            </summary>
+            <param name="nazwa">Nazwa pliku</param>
+            <returns>Obiekt klasy <see cref="T:WindowsFormsApp1.Przedstawiciel" /></returns>
+        </member>
+        <member name="F:WindowsFormsApp1.ZarzK.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.ZarzK.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.ZarzK.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.ZarzP.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.ZarzP.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.ZarzP.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.ZarzT.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.ZarzT.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.ZarzT.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:WindowsFormsApp1.Properties.Resources">
+            <summary>
+              Silnie typizowana klasa zasobów do wyszukiwania zlokalizowanych ciągów itd.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.ResourceManager">
+            <summary>
+              Zwraca buforowane wystąpienie składnika ResourceManager używane przez tę klasę.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.Culture">
+            <summary>
+              Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+              przypadków przeszukiwania zasobów za pomocą tej silnie typizowanej klasy zasobów.
+            </summary>
+        </member>
+    </members>
+</doc>

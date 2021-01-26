@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Przedstawiciel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Imie>Jan</Imie>
+  <Nazwisko>Bach</Nazwisko>
+  <Numer_telefonu>745678997</Numer_telefonu>
+  <Pesel>98121508731</Pesel>
+  <Branza>rozrywkowa</Branza>
+</Przedstawiciel>

@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZarzP.resources
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZarzK.resources
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZarzT.resources
+C:\Users\Asus\Desktop\#c\projekt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.xml
